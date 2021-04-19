@@ -7,12 +7,34 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Creating a book review and sharing appliation. User adds books that they have read or would like to read and has the options to share these lists, keep private, create reviews, and share recommendations. 
+
 ### Features
-Include Features here
+
+User log-in; 
+Book List(s)-- multiple lists availble to user; 
+Author/Book Info--Rather than being 100% user/creater generated, plug into an availble API?????; 
+User Reviews; 
+Share with friends-- create book club lists or recommendation lists for sharing; 
+(have just a one book share feature??? Rather than the whole damn list, be like-- FRIEND, read this singular book I just read?)
+
 ### Technologies
-Include Technologies here
+
+Java Backend;
+MySQL; 
+THYMELEAF (MAYBE???); 
+Spring; 
+Javasript; 
+API; 
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+A shedload. 
+API's with Java; 
+Thymeleaf templates with JS dynamic elements; 
+User log in and user sharing; 
+User Reviews; 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/rHK2Ex74/liftoff-booklist-app
