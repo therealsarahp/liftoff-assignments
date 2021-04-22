@@ -32,7 +32,8 @@ API;
 
 A shedload. 
 API's with Java; 
-Thymeleaf templates with JS dynamic elements; 
+React; 
+creating a seperate backend and frontend and making them work together; 
 User log in and user sharing; 
 User Reviews; 
 
